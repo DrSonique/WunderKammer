@@ -1,0 +1,22 @@
+https://github.com/DrSonique/WunderKammer
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>01</title>
+<style>
+  body { font-family: Georgia, serif; max-width: 34em; margin: 2em auto; padding: 0 1em; line-height: 1.6; }
+  img { max-width: 100%; height: auto; }
+  audio { width: 100%; }
+</style>
+</head>
+<body>
+<h1>01 – Title of object</h1>
+<img src="image.jpg" alt="Description of the object">
+<p>Your short text goes here.</p>
+<audio controls src="sound.mp3"></audio>
+</body>
+</html>
